@@ -1,0 +1,28 @@
+name: Explorations In Story Telling
+favicon: null
+layout_spectrum: 0.04495508875697851
+typography_spectrum: 0.41570151201449335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.010742763755843043
+  lightness: 0.40790384798310697
+  saturation: 0.5222251869272441
+  rhythmicContrast: 0.5812628152780235
+purpose: []
