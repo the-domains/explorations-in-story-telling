@@ -1,7 +1,7 @@
 name: Explorations In Story Telling
 favicon: null
-layout_spectrum: 0.04495508875697851
-typography_spectrum: 0.41570151201449335
+layout_spectrum: 0.02726
+typography_spectrum: 0.51868
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.010742763755843043
-  lightness: 0.40790384798310697
-  saturation: 0.5222251869272441
+  brandStrength: 0.375
+  lightness: 0.25
+  saturation: 0.8125
   rhythmicContrast: 0.5812628152780235
 purpose: []
