@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Explorations In Story Telling]]></title>
+        <description><![CDATA[Explorations In Story Telling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 17:21:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[View From the Hill]]></title>
+            <description><![CDATA[<article><h1>View From the Hill</h1><p>Summit Hill in Fullerton, CA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b026562b7a58aa666b7352168118c927a9c25a2.jpg"></article>]]></description>
+            <link>undefinedview-from-the-hill/index.html</link>
+            <guid isPermaLink="false">96a83bba-a495-4101-8583-9fcbac357d18</guid>
+            <pubDate>Tue, 23 Feb 2016 17:21:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
